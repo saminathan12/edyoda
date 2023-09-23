@@ -1,0 +1,35 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#body{
+    
+   
+
+        
+}
+.nav{
+    display: flex;
+    background: linear-gradient(to right,rgb(133, 0, 133),pink);
+    
+}
+.nav h2{
+    margin:0% ;
+    text-align: right;
+    background: black;
+    color: white;
+    
+    
+}
+.nav ul{
+    display: flex;
+    list-style-type: none;
+    font-size: 24px;
+     
+}
+.list{
+    margin: 8px;
+}
+.section1{
+
+}
